@@ -1,0 +1,31 @@
+{
+   "origin":["Help you to choose your future band's name! \n#Taste# #Color# #Food#\nYou like it? Yes or No! #Emoji#"],
+   "Taste":[
+	"Spicy",
+	"Hot",
+	"Chilli",
+	"Bitter",
+	"Sour"
+	],
+   "Color":[
+	"Pink",
+	"Black",
+	"Cherry",
+	"Tiffany",
+	"Vanilla",
+	"Jade",
+	"Ruby"
+	],
+   "Food":[
+	"Apple",
+	"Pasta",
+	"Cupcake",
+	"Tofu"
+	],
+   "Emoji":[
+	"❤️",
+	"🌞"
+	]
+}
+  
+	
